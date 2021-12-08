@@ -1,10 +1,5 @@
-input[type="email"] {
+#e:focus:valid {
   border-radius: 7px;
   border-color: green;
-}
-
-#f:focus:valid {
-  border-radius: 7px;
-  border-color: gold;
 }
 /*# sourceMappingURL=index.css.map */
